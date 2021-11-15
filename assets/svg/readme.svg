@@ -1,0 +1,28 @@
+<?xml-stylesheet type="text/css" href="../css/style.css"?>
+<svg fill="none" viewBox="0 0 1000 750" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" class='main'>
+	<foreignObject width="100%" height="100%">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<div class='container'>
+			<h1>Animated SVG</h1>
+			<hr/>
+			<h3><a href="https://rebrand.ly/animated-svg-demo" target="_blank">
+				<img id='codepen' src='../img/codepen-icon.png' alt=''/><span>CodePen Demo</span>
+			</a></h3>
+			<div class='line-spacing'></div>
+			<h2>&#128105;&#127995;&#8205;&#127912; How I made it</h2>
+			<hr/>
+			<p><b>&#127912; &#160;</b>Illustrated in Adobe Illustrator <br/>
+				<b>&#128444;&#65039;</b> &#160;Rendered in HTML ~ Animated with CSS <br/>
+			<b>&#128149;</b> Made with love <b>&#10084;&#65039; &#128522;</b></p>
+			<div class='line-spacing'></div>
+			<h2> I spy with my two eyes <b>&#x1F440;</b> ...</h2>
+			<hr/>
+			<p> ... a missing ear <b>&#128066;</b>. Whoops.</p>
+			<footer>
+				<a id="contact" href="https://rebrand.ly/devfolio" target="_blank">@wander1ust</a>
+			</footer>
+		</div>
+	</div>
+	
+	</foreignObject>
+</svg>

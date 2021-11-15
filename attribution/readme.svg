@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/css" href="./style.css"?>
+<svg fill="none" viewBox="0 0 1000 750" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" version="1.1" class='main'>
+	<foreignObject width="100%" height="100%">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<style>
+			.centeredText {
+				text-align: center;
+			}
+			h1 {
+				color: #d70576;
+				font-family: Marker Felt;
+			}
+			h1 + img {
+				margin-top: -3em;
+			}
+			.container {
+				margin-top: -1em;
+			}
+			.main {
+				background: url('https://image.freepik.com/free-photo/pastel-pink-bokeh-lights_53876-88706.jpg') no-repeat;
+				background-size: cover;
+			}			
+		</style>
+		<div class='centeredText'>
+			<!-- <div style='text-align: center;'> -->
+				<h1>Attribution &#x1F49D;</h1>
+				<img src='../assets/img/divider.png' width="200" alt=""/><br/>
+				<div class='container'>
+				<h3>README background image from freepik: </h3><br/>
+				<div><a href='https://www.freepik.com/vectors/background' target='_blank'>www.freepik.com</a></div>
+				<img src='../assets/img/divider.png' width="200" alt=""/>
+				<h3>CodePen Icon</h3>
+				<p><a href='https://findicons.com/icon/578522/codepen_128_black' target='_blank'> https://findicons.com/icon/578522/codepen_128_black</a>	</p>
+				<img src='../assets/img/divider.png' width="200" alt=""/>
+				<h3>Page divider PNG:</h3>
+				<a href='https://pixabay.com/vectors/divider-separators-colorful-design-2461548/' target='_blank'> https://pixabay.com/vectors/divider-separators-colorful-design-2461548/
+				</a><br/>
+				<a href='https://pixabay.com/users/mahuasarkar-5775515/' target='_blank'> <br/> <b>@MahuaSarkar</b> </a>
+				<br/><p></p>
+			</div>
+				<img src='../assets/img/divider.png' width="200" alt=""/>
+			<!-- </div> -->
+		</div>
+	</div>
+	</foreignObject>
+</svg>

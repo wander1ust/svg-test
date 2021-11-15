@@ -1,0 +1,17 @@
+.centeredText {
+	text-align: center;
+}
+h1 {
+	color: #d70576;
+	font-family: Marker Felt;
+}
+h1 + img {
+	margin-top: -3em;
+}
+.container {
+	margin-top: -1em;
+}
+.main {
+	background: url('https://image.freepik.com/free-photo/pastel-pink-bokeh-lights_53876-88706.jpg') no-repeat;
+	background-size: cover;
+}

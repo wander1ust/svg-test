@@ -1,0 +1,130 @@
+body {
+  background: #3a6186;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #3a6186, #89253e);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #3a6186, #89253e);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+ 
+#svg3899 {
+  margin-left: 20%;
+  margin-top: 5%
+}
+
+#ear {
+  fill: #ffe6d5;
+  fill-opacity: 1;
+  stroke: #000000;
+  stroke-width: 2
+}
+
+#bangs1 {
+  display: inline;
+  fill: #502d16;
+  fill-opacity: 1
+}
+
+#bun {
+  display: inline;
+  fill: #502d16;
+}
+
+#head2 {
+  display: inline;
+  fill: #502d16;
+  fill-opacity: 1;
+}
+
+#left-iris,
+#right-iris,
+#left-pupil-1,
+#left-pupil-2,
+#right-pupil-1,
+#right-pupil-2 {
+  fill: #f7f7fc;
+  ;
+}
+
+#lft-eye-color,
+#rt-eye-color {
+  fill: #99594a;
+}
+
+#left-pupil-2,
+#right-pupil-2 {
+  r: 3.5;
+}
+
+#lft-eye-inner,
+#rt-eye-inner {
+  fill: #422019;
+}
+
+#mouth-open {
+  display: inline;
+  opacity: 0;
+  animation: talk 0s forwards;
+  animation-delay: 2s;
+}
+
+#mouth-closed {
+  display: inline;
+  animation: vanish 1s forwards;
+  animation-delay: 2s;
+}
+
+#hey {
+  fill: #ff5555;
+  stroke: #000;
+  opacity: 0;
+  transform: rotate(-25deg);
+  animation: talk 0s forwards;
+  animation-delay: 1.9s;
+}
+
+#left-brow,
+#right-brow {
+  animation: raiseBrows 2s forwards;
+  animation-delay: 1s;
+}
+
+@keyframes raiseBrows {
+  100% {
+    transform: translate(0px, -6px);
+  }
+}
+
+@keyframes talk {
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes vanish {
+  100% {
+    opacity: 0;
+  }
+  #bracket {
+    font-size: 60px;
+    color: blue;
+  }
+}
+
+#left-eye {
+  animation: blink 4s ease-in-out infinite;
+}
+
+#right-eye {
+  animation: blink 4s ease-in-out infinite;
+}
+
+@keyframes blink {
+  0%,
+  97% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.4;
+  }
+}

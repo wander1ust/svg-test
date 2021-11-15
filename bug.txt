@@ -1,0 +1,1 @@
+Character's left ear needs to be duplicated, flipped horizontally, and translated a few pixels to the right (viewer's perspective).
