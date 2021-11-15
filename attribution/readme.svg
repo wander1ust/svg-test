@@ -13,17 +13,27 @@
 			h1 + img {
 				margin-top: -3em;
 			}
+			hr {
+				color: #f0efef; 
+				width: 55%; 
+				margin-top: -1em
+			}
 			.container {
 				margin-top: -1em;
 			}
 			.main {
-				background: url('https://image.freepik.com/free-photo/pastel-pink-bokeh-lights_53876-88706.jpg') no-repeat;
+<!-- 				background: url('https://image.freepik.com/free-photo/pastel-pink-bokeh-lights_53876-88706.jpg') no-repeat;
 				background-size: cover;
+				background-color: #f9d1b7;
+				background-image: linear-gradient(315deg, #f9d1b7 0%, #f894a4 74%); -->
+				background-color: #cdedfd;
+				background-image: linear-gradient(319deg, #cdedfd 0%, #ffec82 37%, #ffcfd2 100%);
+
 			}			
 		</style>
 		<div class='centeredText'>
 			<!-- <div style='text-align: center;'> -->
-				<h1>Attribution &#x1F49D;</h1>
+				<h1>Attribution &#x1F49D;</h1> <hr/>
 				<img src='../assets/img/divider.png' width="200" alt=""/><br/>
 				<div class='container'>
 				<h3>README background image from freepik: </h3><br/>

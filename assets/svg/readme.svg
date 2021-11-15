@@ -1,7 +1,60 @@
-<?xml-stylesheet type="text/css" href="../css/style.css"?>
 <svg fill="none" viewBox="0 0 1000 750" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" class='main'>
 	<foreignObject width="100%" height="100%">
 	<div xmlns="http://www.w3.org/1999/xhtml">
+		<style>
+			.main {
+				<!-- background: url(https://image.freepik.com/free-vector/gradient-pastel-sky-background_23-2148917404.jpg) no-repeat;
+				background-size: cover; -->
+				background-color: #96c8fb;
+				background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);
+				background-color: #f9d1b7;
+				background-image: linear-gradient(315deg, #f9d1b7 0%, #f894a4 74%);
+			}
+			hr {
+				color: #f0efef;
+				width: 55%;
+				margin-top: -1em
+			}
+			h1 {
+				font-family: Arial;
+				font-size: 2em;
+			}
+			h3 span {
+			/*color: darkblue;*/
+			}
+			p {
+				font-size: 1.2em;
+				line-height: 1.7;
+			}
+			.line-spacing {
+				padding-top: 3em;
+			}
+			#codepen {
+				width: 30px
+			}
+			#contact {
+				color: deeppink;
+				text-decoration: none
+			}
+			.container {
+				text-align: center;
+				margin-top: 2em;
+			}
+			.bold {
+				font-weight: 900;
+			}
+			footer {
+				color: deeppink;
+				width: 6.2em;
+				border:1px solid deeppink;
+				border-radius: 0.5em;
+				padding: 0.5em 1em;
+				letter-spacing: 0.05em;
+				font-weight: 900;
+				margin: 5em auto;
+				background-color: #f7e9f4;
+			}
+		</style>
 		<div class='container'>
 			<h1>Animated SVG</h1>
 			<hr/>
